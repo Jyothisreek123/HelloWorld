@@ -1,2 +1,2 @@
 "# HelloWorld"
-This program prints helloworld uaing java
+This program prints helloworld using java
